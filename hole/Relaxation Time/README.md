@@ -1,1 +1,0 @@
-The "res" file stores the real and imaginary parts of the Hamiltonian, while the "target" file stores the training target. The code includes graph construction and model training. Simply running the code will yield the training results.
